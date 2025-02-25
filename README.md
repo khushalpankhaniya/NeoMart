@@ -1,8 +1,19 @@
-# React + Vite
+# **Neomart - E-Commerce Web Application**  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Neomart is a modern and user-friendly **e-commerce Web Application** built with **React.js and Redux**. It allows users to browse, filter, search, and purchase products seamlessly.  
 
-Currently, two official plugins are available:
+## **Tech Stack**  
+- **Frontend:** React.js, Redux, Tailwind CSS  
+- **State Management:** Redux Toolkit  
+- **Routing:** React Router  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ** Features**  
+
+- Users can **search for products** using a search bar.  
+- Users can **filter products by category** .  
+- Users can **set a price range** to find products .  
+
+- Users can **add products to the cart** and manage them easily.  
+- Users can **view product details** with pricing, descriptions, and categories.  
+- Users can **generate an invoice** after checkout, including product details.  
+
