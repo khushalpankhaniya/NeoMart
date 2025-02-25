@@ -7,7 +7,7 @@ Neomart is a modern and user-friendly **e-commerce Web Application** built with 
 - **State Management:** Redux Toolkit  
 - **Routing:** React Router  
 
-## ** Features**  
+## **Features**  
 
 - Users can **search for products** using a search bar.  
 - Users can **filter products by category** .  
