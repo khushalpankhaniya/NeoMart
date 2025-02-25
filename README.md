@@ -39,3 +39,16 @@ Neomart is a modern and user-friendly **e-commerce Web Application** built with 
 - Users can **view product details** with pricing, descriptions, and categories.  
 - Users can **generate an invoice** after checkout, including product details.  
 
+
+## Installation & Setup  
+
+###  Clone the Repository  
+```bash
+git clone https://github.com/khushalpankhaniya/NeoMart.git
+```
+
+### installation 
+```bash
+npm install
+npm run dev
+```
